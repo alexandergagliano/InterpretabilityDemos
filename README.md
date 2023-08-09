@@ -1,3 +1,4 @@
+# Model Interpretability: (Gentle) Theory and Astrophysical Applications
 <p align="center">
   <img src="images/img1.jpeg" />
 </p>
