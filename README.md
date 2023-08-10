@@ -1,4 +1,4 @@
-# Model Interpretability: (Gentle) Theory and Astrophysical Applications
+# Model Interpretability: (Some Gentle) Theory and Astrophysical Applications
 
 <p align="center">
   <img src="./images/img1.jpeg">
